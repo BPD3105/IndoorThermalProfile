@@ -4,7 +4,7 @@
 ## This file contains the guidelines and a detailed description of the execution of the package for the following article
 
 **Title of the Article:** PSO guided optimal estimator enabled regularized adaptive extended Kalman filter with unknown inputs for dynamic nonlinear indoor thermal state estimation
-- **Authors:** Bed Prakash Das<sup>1</sup> , Student Member, IEEE, Kaushik Das Sharma<sup>1</sup>  , Senior Member, IEEE, Amitava Chatterjee<sup>2</sup>  , Jitendra Nath Bera<sup>1</sup> 
+- **Authors:** Bed Prakash Das<sup>1</sup> , Student Member, IEEE, Kaushik Das Sharma<sup>1</sup>  , Senior Member, IEEE, Amitava Chatterjee<sup>2</sup>  , Senior Member, IEEE , Jitendra Nath Bera<sup>1</sup> , Senior Member, IEEE 
 - **Affiliations:**  <sup>1</sup> Department of Applied Physics, University of Calcutta; <sup>2</sup> Department of Electrical Engineering, Jadavpur University 
 - **Communicated to:** [Taylor and Francis - Journal of building performance simulation]
  
