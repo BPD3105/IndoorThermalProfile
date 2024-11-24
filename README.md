@@ -7,7 +7,7 @@
 - **Authors:** Bed Prakash Das<sup>1</sup> , Student Member, IEEE, Kaushik Das Sharma<sup>1</sup>  , Senior Member, IEEE, Amitava Chatterjee<sup>2</sup>  , Senior Member, IEEE , Jitendra Nath Bera<sup>1</sup> , Senior Member, IEEE 
 - **Affiliations:**  <sup>1</sup> Department of Applied Physics, University of Calcutta; <sup>2</sup> Department of Electrical Engineering, Jadavpur University 
 - **Published in:** [Taylor and Francis - Journal of building performance simulation] 2024
-- ** **Cite:** Das, B. P., Das Sharma, K., Chatterjee, A., & Bera, J. N. (2024). PSO-guided optimal estimator enabled regularized adaptive extended Kalman filter with unknown inputs for dynamic nonlinear indoor thermal state estimation. Journal of Building Performance Simulation, 17(4), 422–442. https://doi.org/10.1080/19401493.2024.2324814
+- **Cite:** Das, B. P., Das Sharma, K., Chatterjee, A., & Bera, J. N. (2024). PSO-guided optimal estimator enabled regularized adaptive extended Kalman filter with unknown inputs for dynamic nonlinear indoor thermal state estimation. Journal of Building Performance Simulation, 17(4), 422–442. https://doi.org/10.1080/19401493.2024.2324814
  
 ## Requirements:
 
